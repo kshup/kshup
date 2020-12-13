@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ali Murat</h1>
-<h3 style=”color: red; font-weight: bold;>My crime is that of curiosity</h3>
+<h3 style=”color: red;>My crime is that of curiosity</h3>
 
 - 🔭 I’m currently working on **Cryptology Algorithms**
 
