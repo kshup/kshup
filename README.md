@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Hack tools,PHP,JS,Cryptology Algorithms**
 
-- 💬 Ask me about **Python, C++ , C, Web staffs**
+- 💬 Ask me about **Python, C++ , C, Web stuffs**
 
 - 📫 How to reach me **alimuraat@hotmail.com**
 
