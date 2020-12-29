@@ -18,6 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshup&show_icons=true&locale=en&layout=compact" alt="kshup" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshup&show_icons=true&locale=en&layout=compact&amp;layout=compact&amp;langs_count=8&amp;theme=dark" style="max-width:100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshup&show_icons=true&locale=en&layout=compact&amp;layout=compact&amp;langs_count=8&amp;theme=dark" style="max-width:500px;">
 
 
