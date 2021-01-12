@@ -12,7 +12,7 @@
 
 
 
-<p><img align="center" src="https://giphy.com/gifs/YQitE4YNQNahy/html5" alt="kshup" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshup&show_icons=true&locale=en" alt="kshup" /></p>
 
 
 
